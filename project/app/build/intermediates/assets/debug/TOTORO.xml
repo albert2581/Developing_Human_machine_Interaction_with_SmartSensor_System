@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="shoot" size="10.000000 6.807017" />
+    <ImageTarget name="shoot1" size="3.000000 3.000000" />
+    <ImageTarget name="send" size="13.000000 9.641666" />
+    <ImageTarget name="next" size="11.000000 10.450000" />
+    <ImageTarget name="previous" size="5.000000 2.519531" />
+    <ImageTarget name="cancel" size="5.000000 11.851851" />
+    <ImageTarget name="confirm" size="5.000000 5.007825" />
+    <ImageTarget name="DSC089" size="10.000000 7.204611" />
+  </Tracking>
+</QCARConfig>
